@@ -1,2 +1,2 @@
 # Hello-World
-My first research and development project
+My first research and development project for learning purpose
